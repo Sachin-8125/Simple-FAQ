@@ -1,0 +1,61 @@
+.title{
+    font-size: 25px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.subtitle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+}
+.tracking{
+    display: flex;
+    flex-direction: column;
+    margin-left: 25%;
+}
+.track-subtitle{
+    margin-bottom: 8px;
+    margin-top: 8px;
+}
+.track-title{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.track-steps{
+    padding-left: 10px;
+}
+.return{
+    display: flex;
+    flex-direction: column;
+    margin-left: 25%;
+    margin-top: 20px;
+}
+.return-title{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.return-subtitle{
+    margin-bottom: 8px;
+    margin-top: 8px;
+}
+.return-steps{
+    padding-left: 10px;
+}
+.separator{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 25%;
+    margin-right: 5%;
+}
